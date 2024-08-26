@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopilotDemo.Server", "Copil
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "copilotdemo.client", "copilotdemo.client\copilotdemo.client.esproj", "{7FD9875B-395D-410C-BF89-0EA92CAC16CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopilotDemo.Generator", "..\CopilotDemo.Generator\CopilotDemo.Generator.csproj", "{0DEFE627-DF6E-4DA9-A277-591BBA11AA8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0DEFE627-DF6E-4DA9-A277-591BBA11AA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEFE627-DF6E-4DA9-A277-591BBA11AA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEFE627-DF6E-4DA9-A277-591BBA11AA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEFE627-DF6E-4DA9-A277-591BBA11AA8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
