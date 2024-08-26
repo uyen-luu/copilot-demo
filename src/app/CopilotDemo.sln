@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopilotDemo.Server", "CopilotDemo.Server\CopilotDemo.Server.csproj", "{6BA47D7B-4291-4CA9-8811-D4CE8548FEDC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "copilotdemo.client", "copilotdemo.client\copilotdemo.client.esproj", "{7FD9875B-395D-410C-BF89-0EA92CAC16CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA47D7B-4291-4CA9-8811-D4CE8548FEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA47D7B-4291-4CA9-8811-D4CE8548FEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA47D7B-4291-4CA9-8811-D4CE8548FEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA47D7B-4291-4CA9-8811-D4CE8548FEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD9875B-395D-410C-BF89-0EA92CAC16CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97265B58-0DB0-4CE5-AC33-465DD5DB1196}
+	EndGlobalSection
+EndGlobal
